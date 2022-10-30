@@ -21,4 +21,3 @@
 <img src="https://user-images.githubusercontent.com/99735835/198880117-63bd4044-a7d3-4efa-8125-2d97da467934.png" alt="sql" width="80" height="80">
  </p>
 
-<img src="" alt="CSS3" width="80" height="80">
