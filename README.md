@@ -13,4 +13,6 @@
 ![html5](https://user-images.githubusercontent.com/99735835/198879016-17ab7434-3bfc-42e6-bc95-0c529422582f.svg)
 ![css3](https://user-images.githubusercontent.com/99735835/198879018-0b05e739-627f-4121-b85a-1c78df212482.svg)
 <img src="https://user-images.githubusercontent.com/99735835/198879023-8de9ec56-d7d8-457f-a7f1-33f182fd3b8d.svg" alt="Node JS" width="100" height="100">
-![js](https://user-images.githubusercontent.com/99735835/198879204-2f40804b-9b8b-4b1c-966b-1e5693326503.png)
+<img src="https://user-images.githubusercontent.com/99735835/198879204-2f40804b-9b8b-4b1c-966b-1e5693326503.png" alt="JavaScript" width="100" height="100">
+
+<img src="" alt="Name" width="100" height="100">
