@@ -1,10 +1,11 @@
-### Welcome, my name is Richard, and I'm training to be a Fullstack developer
+### Welcome, my name is <b>Richard</b> 
 
-- 🔭 I’m currently working on a storefront for selling homemade accessories
-- 🌱 I’m currently learning Bootstrap
-- 📫 How to reach me: richard.m@ttinson.net
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- I'm training to be a Fullstack developer
+- I’m currently working on a storefront for selling homemade accessories
+- I’m currently learning Bootstrap
+- How to reach me: richard.m@ttinson.net
+- Pronouns: He/Him
+- Fun fact: I walked 24 miles across the Wye Valley last year for MacMillan
 
 
 ### My Languages and Tools
