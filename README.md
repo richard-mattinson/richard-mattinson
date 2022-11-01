@@ -1,6 +1,6 @@
 ### Welcome, my name is <b>Richard</b> 
 
-- I'm training to be a Fullstack developer
+- I'm training to be a <b>Fullstack developer</b>
 - I’m currently working on a storefront for selling homemade accessories
 - I’m currently learning Bootstrap
 - How to reach me: richard.m@ttinson.net
