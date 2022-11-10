@@ -1,7 +1,7 @@
 ### Welcome, my name is <b>Richard</b> 
 
 - I'm training to be a <b>Fullstack developer</b>
-- I’m currently working on a storefront for selling homemade accessories
+- I’m currently working on a realtime messaging app
 - I’m currently learning <b>Tailwind</b>
 - How to reach me: richard.m@ttinson.net
 - Pronouns: He/Him
