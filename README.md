@@ -3,7 +3,7 @@
 - I'm training to be a <b>Fullstack developer</b>
 - I’m currently working on a realtime messaging app
 - I’m currently learning <b>Tailwind</b>
-- How to reach me: richard.m@ttinson.net
+- How to reach me: richard.m.codes@gmail.com
 - Pronouns: He/Him
 - Fun fact: I walked 24 miles across the Wye Valley last year for MacMillan
 
