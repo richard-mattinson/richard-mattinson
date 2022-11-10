@@ -2,7 +2,7 @@
 
 - I'm training to be a <b>Fullstack developer</b>
 - I’m currently working on a storefront for selling homemade accessories
-- I’m currently learning <b>Bootstrap</b>
+- I’m currently learning <b>Tailwind</b>
 - How to reach me: richard.m@ttinson.net
 - Pronouns: He/Him
 - Fun fact: I walked 24 miles across the Wye Valley last year for MacMillan
