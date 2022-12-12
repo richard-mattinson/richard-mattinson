@@ -1,8 +1,8 @@
 ### Welcome, my name is <b>Richard</b> 
 
 - I'm training to be a <b>Fullstack developer</b>
-- I’m currently working on a realtime messaging app
-- I’m currently learning <b>Tailwind</b>
+- I’m currently working on an SQL database project
+- I’m currently learning <b>Python</b>
 - How to reach me: richard.m.codes@gmail.com
 - Pronouns: He/Him
 - Fun fact: I walked 24 miles across the Wye Valley last year for MacMillan
