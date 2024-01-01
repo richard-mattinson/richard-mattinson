@@ -8,7 +8,7 @@
 - Fun fact: I walked 24 miles across the Wye Valley for MacMillan Cancer Support. 
 
 
-### My Languages and Tools
+### My Main Languages and Tools
 <p align="left">
 <img src="https://user-images.githubusercontent.com/99735835/198879204-2f40804b-9b8b-4b1c-966b-1e5693326503.png" alt="javascript" width="80" height="80">
 <!-- <img src="https://user-images.githubusercontent.com/99735835/198879004-002ab73a-a039-4df6-b81c-9ba05a50b82c.svg" alt="react" width="80" height="80"> -->
