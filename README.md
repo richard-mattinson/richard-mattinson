@@ -2,7 +2,7 @@
 
 - I currently work fulltime, primarily as a <b>JS, HTML and CSS developer</b>
 - My current personal project is a small UI components library with <b>Babel</b> and <b>Webpack</b>
-- For my next project I want to take a deeper dive in to <b>React</b> and <b>Tailwind</b>
+- For my next project I want to take a deeper dive in to <b>React</b> and <b>Next.js</b>
 - How to reach me: richard.m.codes@gmail.com
 - Pronouns: He/Him
 - Fun fact: I walked 24 miles across the Wye Valley for MacMillan Cancer Support. 
